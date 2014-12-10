@@ -1,0 +1,9 @@
+###########################
+# Slide Show (S9) Plugin
+#
+#  use like
+#    {{ google_analytics code=UA-YOUR-CODE-HERE }}
+#
+
+analytics_helper.rb
+
