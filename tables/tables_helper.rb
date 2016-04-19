@@ -54,6 +54,14 @@ def right( opts={}, &blk )
   return    ## todo/check: do we need a return?
 end
 
+
+
+###
+#  todo/check: revisit center macro - better option just using css?
+#    why not use a .center class for your slide to center ??
+#
+#   try/check some examples to see how it works out
+
 def center( opts={}, &blk )
 
   width = opts.fetch( :width, "100%" )
